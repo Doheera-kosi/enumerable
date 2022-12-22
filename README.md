@@ -54,7 +54,7 @@ In order to run this project you need:
 Clone this project on your local machine using the following command on your terminal:
 
 ```sh
-  git clone https://github.com/DaveZag/decode-morse.git
+  git clone https://github.com/Doheera-kosi/enumerable.git
 ```
 
 ### Install
