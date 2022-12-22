@@ -23,7 +23,7 @@
 - [⭐️ Show your support](#support)
 - [📝 License](#license)
 
-# 📖 Decode Morse <a name="about-project"></a>
+# 📖 Enumeration with Ruby <a name="about-project"></a>
 
 > In this project we learned and implemented use a module inside class. Created a class MyList and a module MyEnumerable. The module MyEnumerable implemented a subset of the functionality of Enumerable.
 
