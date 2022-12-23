@@ -2,7 +2,7 @@
 
 <div align="center">
 
-  <img src="" alt="logo" width="100"  height="auto" />
+  <img src="murple_logo.png" alt="logo" width="100"  height="auto" />
   <br/>
 
 </div>
@@ -70,7 +70,7 @@ bundle install
 To run the project, execute the following command:
 
 ```sh
-  ruby decode.rb
+  ruby enum_list.rb
 ```
 
 ## Run Tests
